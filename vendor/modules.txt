@@ -159,6 +159,12 @@ github.com/googleapis/gax-go/v2/internal
 # github.com/jmespath/go-jmespath v0.4.0
 ## explicit; go 1.14
 github.com/jmespath/go-jmespath
+# github.com/mdlayher/socket v0.4.1
+## explicit; go 1.20
+github.com/mdlayher/socket
+# github.com/mdlayher/vsock v1.2.1
+## explicit; go 1.20
+github.com/mdlayher/vsock
 # github.com/mitchellh/copystructure v1.2.0
 ## explicit; go 1.15
 github.com/mitchellh/copystructure
@@ -218,6 +224,7 @@ golang.org/x/crypto/internal/alias
 golang.org/x/crypto/internal/poly1305
 # golang.org/x/net v0.10.0
 ## explicit; go 1.17
+golang.org/x/net/bpf
 golang.org/x/net/context
 golang.org/x/net/http/httpguts
 golang.org/x/net/http/httpproxy
@@ -235,6 +242,9 @@ golang.org/x/oauth2/google/internal/externalaccount
 golang.org/x/oauth2/internal
 golang.org/x/oauth2/jws
 golang.org/x/oauth2/jwt
+# golang.org/x/sync v0.2.0
+## explicit
+golang.org/x/sync/errgroup
 # golang.org/x/sys v0.8.0
 ## explicit; go 1.17
 golang.org/x/sys/cpu

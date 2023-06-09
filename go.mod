@@ -12,6 +12,7 @@ require (
 	github.com/coreos/vcontext v0.0.0-20230201181013-d72178a18687
 	github.com/google/renameio/v2 v2.0.0
 	github.com/google/uuid v1.3.0
+	github.com/mdlayher/vsock v1.2.1
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/pin/tftp v2.1.0+incompatible
 	github.com/spf13/pflag v1.0.6-0.20210604193023-d5e0c0615ace
@@ -39,10 +40,12 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
 	github.com/googleapis/gax-go/v2 v2.10.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
+	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.9.0 // indirect
+	golang.org/x/sync v0.2.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
